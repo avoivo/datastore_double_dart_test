@@ -1,0 +1,1 @@
+This project serves the purpose of identifing a misbehaviour of google's datastore with gcloud package when using DoubleProperty. 
